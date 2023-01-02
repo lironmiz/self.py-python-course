@@ -1,5 +1,5 @@
 # hangman project - first unit exercise.
-# author - lirom miz
+# author - lirom mizrahi
 # In this exercise you will start developing the game by designing an "opening screen" that will
 # appear to the player who starts playing. You need to create a designed "open screen"
 # for the game.
