@@ -21,8 +21,7 @@ MAX_TRIES = random.randint(5,10)
 print(MAX_TRIES)
 
 guess_a_letter= input("Guess a letter:" )
-guess_a_letter.lower()
-print(guess_a_letter)
+print(guess_a_letter.lower())
 
 #images for the wrong gusses
 
