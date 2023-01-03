@@ -8,4 +8,4 @@ encrypted_message = "!XgXnXiXcXiXlXsX XnXoXhXtXyXpX XgXnXiXnXrXaXeXlX XmXaX XI"
 
 print(encrypted_message[56:0:-2])
 
-# Enswer: I am learning python slicing
+# Answer: I am learning python slicing
