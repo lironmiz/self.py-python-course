@@ -3,4 +3,4 @@ a = 10
 b = a
 a = 4
 print(a, b)
-# Enswer: 4 10
+# Answer: 4 10
