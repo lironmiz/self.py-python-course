@@ -13,15 +13,15 @@ Ensure accurate output (including quotation marks).
 
 # 1:
 print(numbers[0:10:1])
-# Enswer: '123456789'
+# Answer: '123456789'
 
 # 2:
 print(numbers[3:6:3])
-# Enswer: '4'
+# Answer: '4'
 
 # 3:
 print(numbers[-1:-1:0])
-# Enswer: error 
+# Answer: error 
 
 
 
