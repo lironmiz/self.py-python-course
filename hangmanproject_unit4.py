@@ -25,14 +25,14 @@ If the received character is one character and also an English letter
 
 '''
 
-note = input("Enter a note: ")
+user_note = input("Enter a note: ")
 
-if not note.isalpha() or len(note) > 1:
-  # Check if string contains non-alphabetic characters or has more than one character
-  if not note.isalpha():
-    print("E3")
-  else:
+if len(user_note) > 1:
+  if user_note.isalpha():
     print("E1")
+  else:
+    print("E3")
+elif len(user_note) == 1 and user_note.isalpha() != True:
+  print("E2")
 else:
-  # Print lowercase version of the letter
-  print(note.lower())
+  print(user_note.lower())
