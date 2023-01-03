@@ -7,7 +7,7 @@ if temperature < 0:
 print("Brr... I need to find some penquins. to keep me company")
   else:
     print("Goodbye penquins!")
-# Enswer: error of kind IndentationError
+# Answer: error of kind IndentationError
 
 # 2:
 temperature = float(input("What is the temperature? "))
@@ -15,7 +15,7 @@ if temperature < 0
 print("Brr... I need to find some penquins. to keep me company")
 else:
     print("Goodbye penquins!")
-# Enswer: error of kind SyntaxError
+# Answer: error of kind SyntaxError
 
 # 3:
 temperature = float(input("What is the temperature? "))
@@ -23,4 +23,4 @@ if temperature < 0:
 print("Brr... I need to find some penquins. to keep me company")
 else:
     print("Goodbye penquins!")
-# Enswer: what is the temperature?
+# Answer: what is the temperature?
