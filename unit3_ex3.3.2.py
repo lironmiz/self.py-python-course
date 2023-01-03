@@ -17,5 +17,5 @@ Put the string you discovered into the text box (without quotes).
 # >>> msg[1] == msg[3] == msg[5]
 # True 
 
-# Enswer: syzygy
+# Answer: syzygy
 
