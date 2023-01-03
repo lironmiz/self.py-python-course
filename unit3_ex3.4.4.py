@@ -20,21 +20,21 @@ astronaut.take_to_space(days)
 
 # 1:
 # LAUNCH_DATE="16/07/1969"
-# Enswer: LAUNCH_DATE = "16/07/1969"
+# Answer: LAUNCH_DATE = "16/07/1969"
 
 # 2:
 # RETURN_DATE="24/07/1969"
-# Enswer: RETURN_DATE = "24/07/1969"
+# Answer: RETURN_DATE = "24/07/1969"
 
 # 3:
 # astronaut="Neil"+"Armstrong"
-# Enswer: astronaut = "Neil" + "Armstrong"
+# Answer: astronaut = "Neil" + "Armstrong"
 
 # 4:
 # days=how_many_days(LAUNCH_DATE‚RETURN_DATE)
-# Enswer: days = how_many_days(LAUNCH_DATE‚ RETURN_DATE)
+# Answer: days = how_many_days(LAUNCH_DATE‚ RETURN_DATE)
 
 # 5:
 # astronaut.take_to_space(days)
-# Enswer: astronaut.take_to_space(days)
+# Answer: astronaut.take_to_space(days)
 
