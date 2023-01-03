@@ -6,14 +6,14 @@ eggs_num = 4
 
 # 1:
 int(swan_height)
-# Enswer: 90
+# Answer: 90
 
 # 2:
 # int(fairy_tale)
-# Enswer: error message
+# Answer: error message
 
 # 3:
 surprise = bool(eggs_num)
 str(surprise)
-# Enswer: 'True'
+# Answer: 'True'
 
