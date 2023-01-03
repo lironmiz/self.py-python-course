@@ -22,7 +22,7 @@ if not (rain_mm == 5):
 else:
   print("illegal")
   
-# Enswer: same
+# Answer: same
 
 # first code:
 if rain_mm > 20 and rain_mm < 40:
@@ -36,7 +36,7 @@ if not (rain_mm < 20 and rain_mm > 40):
 else:
   print("illegal")
   
-# Enswer: different
+# Answer: different
 
 # first code:
 if rain_mm > 6 and rain_mm < 4:
@@ -50,6 +50,6 @@ if not (False):
 else:
   print("illegal")
   
-# Enswer: same  
+# Answer: same  
   
   
