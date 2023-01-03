@@ -2,4 +2,4 @@
 # What will be the result of the following expression?
 output = "He" + "l" * 2 + "o" + " Python " + str(7.2 / 2) + "." + str(3)
 print(output)
-# Enswer: 'Hello Python 3.6.3'
+# Answer: 'Hello Python 3.6.3'
