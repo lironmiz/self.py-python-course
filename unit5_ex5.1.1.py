@@ -14,7 +14,7 @@ func("python")
 
 # Mark all the correct sentences regarding the mystery function and the run sections that follow it.
 
-# Enswer:
+# Answer:
 # A: the var index is a paramter to the function mystery
 # D: the value 3 is argument that been pass to the function func 
 # E: mystery and func is pointing to the same location on memory 
