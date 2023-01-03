@@ -12,11 +12,11 @@ Pay attention to maintaining the conventions in the Python language.
 
 # 1:
 # chose name for the account number of the programmer
-# Enswer: ACCOUNT_NUMBER
+# Answer: ACCOUNT_NUMBER
 
 # 2:
 # chose name for the amount of money in the account number of the programmer
-# Enswer: amount_of_money
+# Answer: amount_of_money
 
 
 
