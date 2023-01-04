@@ -1,4 +1,5 @@
-
+# hangman project - unit five exercise.
+# author - lirom mizrahi
 '''
 In the task at the end of the previous unit, you thoroughly dealt with cases wher
 e the player types input that is not correct. Since the game "Hanged Man" includes
