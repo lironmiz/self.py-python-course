@@ -22,7 +22,7 @@ are of the same type).
 '''
 
 def main():
-    def inverse_dict_helper(my_dict):
+    def inverse_dict(my_dict):
         inverted_dict = {}
         for key, value in my_dict.items():
             if value not in inverted_dict:
@@ -34,7 +34,7 @@ def main():
         return inverted_dict
 
     my_dict = {'a': 1, 'b': 2, 'c': 1, 'd': 2, 'e': 2}
-    print(inverse_dict_helper(my_dict))
+    print(inverse_dict(my_dict))
 
 main()
 
