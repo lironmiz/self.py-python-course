@@ -36,7 +36,7 @@ def choose_word(file_path, index):
 
     num_unique_words = len(set(words))
 
-    secret_word = words[(index - 1) % len(words)]
+    secret_word = words[(int(index) - 1) % len(words)]
 
     return (num_unique_words, secret_word)
 
