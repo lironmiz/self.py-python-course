@@ -31,6 +31,12 @@ this repository contains solutions in python to the python course problems of th
 9. Files
 10. Final project from scratch hangman game.
 
+# video of the final project 🤙
+
+
+https://user-images.githubusercontent.com/91504420/210758896-10ba6b90-9aa2-49ca-8f73-7fdf5c3ed5b0.mp4
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" >
