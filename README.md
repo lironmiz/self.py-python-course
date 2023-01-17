@@ -19,6 +19,9 @@ this repository contains solutions in python to the python course problems of th
   </a>
 </p>
 
+![image](https://user-images.githubusercontent.com/91504420/212971858-3c5505ad-1228-4d45-b18a-3929b85f9f68.png)
+
+
 # course material:
 1. Introduction to the Python language
 2. Variables
