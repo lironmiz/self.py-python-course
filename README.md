@@ -19,25 +19,33 @@ this repository contains solutions in python to the python course problems of th
   </a>
 </p>
 
+# The Graduation Certificate 🤩
+
+![SoExcited~GIF](https://user-images.githubusercontent.com/91504420/213165483-e7340f16-17b1-4c66-897a-0075e11677d9.gif)
+
 ![image](https://user-images.githubusercontent.com/91504420/212971858-3c5505ad-1228-4d45-b18a-3929b85f9f68.png)
+
+# Examiner's Notes 🫡
 
 ![image](https://user-images.githubusercontent.com/91504420/213149351-abc824f2-1300-414b-85b1-1955f995a4ed.png)
 
+# Progress Graph 📈
+
 ![image](https://user-images.githubusercontent.com/91504420/212972245-cf436d2b-a5b1-4c04-8a2a-2a308f1bcc25.png)
 
-# course material:
-1. Introduction to the Python language
-2. Variables
-3. String in python
-4. Conditions
-5. functions
-6. Lists
-7. Loops
-8. Advanced data structure e.g (tuple, Dictionary )
-9. Files
-10. Final project from scratch hangman game.
+# Course Material:
+  * Introduction to the Python language
+  * Variables
+  * String in python
+  * Conditions
+  * Functions
+  * Lists
+  * Loops
+  * Advanced data structure e.g (tuple, Dictionary )
+  * Files
+  * Final project from scratch hangman game.
 
-# video of the final project 🤙
+# Video Of The Final Project 🤙
 
 
 https://user-images.githubusercontent.com/91504420/210758896-10ba6b90-9aa2-49ca-8f73-7fdf5c3ed5b0.mp4
